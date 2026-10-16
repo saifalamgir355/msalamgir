@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# Block nothing — this is a small brochure site.
+# AI crawlers are allowed: the firm wants to be cited in AI answers.
+
+Sitemap: https://msalamgir.com/sitemap.xml
